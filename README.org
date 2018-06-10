@@ -1,0 +1,5 @@
+* Usage
+cp ./tmux.conf  ~/.tmux.conf
+
+* References
+1- [[https://gist.github.com/spicycode/1229612#file-tmux-conf][spicycode]]
